@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "934468636316",
+    "firebase_url": "https://flutter-chat-ba7c2.firebaseio.com",
+    "project_id": "flutter-chat-ba7c2",
+    "storage_bucket": "flutter-chat-ba7c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934468636316:android:e2eb7c8f6b44bd4519e759",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934468636316-mq79g3viev20e3l9ks1u9irkvhrtn7rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjaKlpdPfTbRfrTaB7OVx2myU6CPMFlpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934468636316-mq79g3viev20e3l9ks1u9irkvhrtn7rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934468636316:android:6ff57f20556331dc19e759",
+        "android_client_info": {
+          "package_name": "com.example.ementor_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934468636316-4jvkft7a45bmc9lqprfr83ls2sk7sjon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ementor_demo",
+            "certificate_hash": "d359053f7867332d9dfc695ce5bcc5e91644deb7"
+          }
+        },
+        {
+          "client_id": "934468636316-ba35hqi0m1m42rjsr1o8cqkb1l2dbaeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ementor_demo",
+            "certificate_hash": "fb8f29dedf30a629cb3e9a6468cfe5d14d3148f8"
+          }
+        },
+        {
+          "client_id": "934468636316-nt1sdcfi81lrc11fcsvpg4f8mjb4hof3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ementor_demo",
+            "certificate_hash": "17f3637173febbd3f23989c6c8ebe627cbcd6c12"
+          }
+        },
+        {
+          "client_id": "934468636316-mq79g3viev20e3l9ks1u9irkvhrtn7rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjaKlpdPfTbRfrTaB7OVx2myU6CPMFlpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934468636316-mq79g3viev20e3l9ks1u9irkvhrtn7rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
